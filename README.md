@@ -8,18 +8,23 @@ I am a **Cybersecurity Professional & SOC Analyst** with hands-on experience in 
 I also have practical knowledge of **DevOps, Cloud Security & AI**, building labs and projects to strengthen my skills.  
 Passionate about continuous learning, I believe in *learning by doing* and sharing my work with the community.  
 
-📧 Email: waqarhussain.c@gmail.com  
+
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
 
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-hussain-c)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/waqar_cybersec)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqarhussain.c@gmail.com)  
+## 📜 Training & Knowledge  
+- EduQual **RQF Level 6 in Cybersecurity** *(equivalent to a Bachelor's degree)*  
+- Knowledge of **ISO 27001 / 27017 / 27018** (Implementation & Auditing)  
+- Knowledge of **NIST 800-82 & ISO 27019:2017** (SCADA / ICS Security)  
+- Familiar with **PCI DSS Compliance & CISSP Concepts**  
+- Hands-on practice with **SOC Tools (Splunk, ELK, QRadar)**  
 
 ---
+
+
+
 
 # 💻 Tools & Technologies
 
@@ -57,12 +62,13 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
-## 📜 Training & Knowledge  
-- EduQual **RQF Level 6 in Cybersecurity** *(equivalent to a Bachelor's degree)*  
-- Knowledge of **ISO 27001 / 27017 / 27018** (Implementation & Auditing)  
-- Knowledge of **NIST 800-82 & ISO 27019:2017** (SCADA / ICS Security)  
-- Familiar with **PCI DSS Compliance & CISSP Concepts**  
-- Hands-on practice with **SOC Tools (Splunk, ELK, QRadar)**  
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-hussain-c) 
+ 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/waqar_cybersec)  
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqarhussain.c@gmail.com)
+
 
 ---
 <!-- Snake Game Repo View -->
@@ -71,6 +77,7 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
 # 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
 
@@ -78,13 +85,16 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-cyberSecurity&layout=compact&theme=dark&langs_count=8)  
 
+
 ---
 
-## 📂 Featured Labs & Projects  
-- 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/python-lab) → Simple Python script for cybersecurity practice  
-- 🐍 [Bash Lab](https://github.com/Waqar-cyberSecurity/bash-lab) → Basic Bash script for SOC automation  
-- 📦 [Docker Lab](https://github.com/Waqar-cyberSecurity/docker-lab) → Sample Dockerfile for container basics  
 
+## 📂 Featured Labs & Projects  
+
+- 🤖 **Artificial intelligence Lab** → Exploring AI & Machine Learning use-cases in cybersecurity  
+- 🔒 [Python Lab](./Waqar-cyberSecurity/Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
+- 📦 [Docker Lab](./Docker-Lab/README.md) → Hands-on Dockerfile showcasing container fundamentals  
+ - ☸️ **Kubernetes Lab** → Pod & Service deployment for cloud-native environments
 💡 More labs and security projects coming soon...  
 
 ---
