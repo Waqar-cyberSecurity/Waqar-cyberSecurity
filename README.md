@@ -136,4 +136,4 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 ## 📫 How to Reach Me  
 📧 Email: waqar.hussain.cybersec@gmail.com  
 💼 LinkedIn: [Waqar Hussain](https://linkedin.com/in/waqar-hussain-c)  
-🐦 X: [@waqar_cybersec](https://x.com/waqar_cybersec)  
+✘  Twitter: [@waqar_cybersec](https://x.com/waqar_cybersec)  
