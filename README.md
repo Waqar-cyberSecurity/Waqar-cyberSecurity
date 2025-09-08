@@ -1,6 +1,9 @@
 <img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
 
-<h1 align="center">Hi 👋, I'm Waqar Hussain</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Waqar Hussain
+</h1>
+
 
 ## 💫 About Me  
 
