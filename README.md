@@ -23,14 +23,20 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
+## 🏅 Certifications  
 
+- 📜 [SQL Injection](https://www.udemy.com/certificate/UC-0856d143-8609-433a-b699-026b448e3eca/)  
+- 🔐 [CISSP Security Assessment & Testing](https://www.linkedin.com/in/waqar-hussain-c/overlay/1743078903199/single-media-viewer/?profileId=ACoAAFjiFo0BxoXETYoDBg8RIbY-uEiLJGB5Il0)  
+- ⚡ More certifications coming soon...  
 
+---
 
 # 💻 Tools & Technologies
 
 **Programming & Scripting:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 **Operating Systems & Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -83,18 +89,17 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ![Streak](./https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-cyberSecurity&layout=compact&theme=dark&langs_count=8)  
-
 
 ---
-Waqar-cyberSecurity/Python-Automation-Deep-Dive
+
 
 ## 📂 Featured Labs & Projects  
 
 - 🤖 [Artificial intelligence Lab](https://github.com/Waqar-cyberSecurity/Artificial-intelligence-Labs) → Exploring AI & Machine Learning 
 - 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
 - 📦 [Docker Lab](https://github.com/Waqar-cyberSecurity/Containerization-Docker-) → Hands-on Dockerfile showcasing container fundamentals  
- - ☸️ [Kubernetes Lab]() → Pod & Service deployment for cloud-native environments
+- ☸️ [Kubernetes Lab]() → Pod & Service deployment for cloud-native environments
+
 💡 More labs and security projects coming soon...  
 
 ---
@@ -107,4 +112,4 @@ Waqar-cyberSecurity/Python-Automation-Deep-Dive
 ## 📫 How to Reach Me  
 📧 Email: waqarhussain.c@gmail.com  
 💼 LinkedIn: [waqar-hussain-c](https://linkedin.com/in/waqar-hussain-c)  
-🐦 Twitter/X: [@waqar_cybersec](https://x.com/waqar_cybersec)  
+🐦 X: [@waqar_cybersec](https://x.com/waqar_cybersec)  
