@@ -1,4 +1,4 @@
-![logo](https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png)
+<img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
 
 <h1 align="center">Hi 👋, I'm Waqar Hussain</h1>
 
