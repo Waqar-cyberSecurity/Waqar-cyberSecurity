@@ -81,7 +81,7 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 # 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
 
-![Streak](https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)  
+![Streak](./https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-cyberSecurity&layout=compact&theme=dark&langs_count=8)  
 
