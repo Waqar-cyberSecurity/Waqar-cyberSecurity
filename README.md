@@ -123,8 +123,13 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
-## 💡 Quote I Believe In  
-*"Security is not a product, but a process."* – Bruce Schneier  
+<h2 align="center">💡 Quote I Believe In</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&width=900&lines=Security+is+not+a+product,+but+a+process.+–+Bruce+Schneier" alt="quote"/>
+</p>
+
+
 
 ---
 
