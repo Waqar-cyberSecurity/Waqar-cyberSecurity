@@ -12,8 +12,13 @@ I also have practical knowledge of **DevOps, Cloud Security & AI**, building lab
 Passionate about continuous learning, I believe in *learning by doing* and sharing my work with the community.  
 
 
+---
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/96/a1/25/96a1251dbda9712148bab005c5ae34e1.gif">
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/96/a1/25/96a1251dbda9712148bab005c5ae34e1.gif" width="600" alt="Cyber Attack Map">
+</p>
+
 
 ---
 
