@@ -13,7 +13,7 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/96/a1/25/96a1251dbda9712148bab005c5ae34e1.gif">
 
 ---
 
