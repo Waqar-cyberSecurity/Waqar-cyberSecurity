@@ -92,7 +92,7 @@ Waqar-cyberSecurity/Python-Automation-Deep-Dive
 ## 📂 Featured Labs & Projects  
 
 - 🤖 **Artificial intelligence Lab** → Exploring AI & Machine Learning use-cases in cybersecurity  
-- 🔒 [Python Lab]([https://github.com/Waqar-cyberSecurity/Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
+- 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
 - 📦 [Docker Lab](./Docker-Lab/README.md) → Hands-on Dockerfile showcasing container fundamentals  
  - ☸️ **Kubernetes Lab** → Pod & Service deployment for cloud-native environments
 💡 More labs and security projects coming soon...  
