@@ -115,9 +115,9 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 ## 📂 Featured Labs & Projects  
 
 - 🤖 [Artificial intelligence Lab](https://github.com/Waqar-cyberSecurity/Artificial-intelligence-Labs) → Exploring AI & Machine Learning 
-- 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
-- 📦 [Docker Lab](https://github.com/Waqar-cyberSecurity/Containerization-Docker-) → Hands-on Dockerfile showcasing container fundamentals  
-- ☸️ [Kubernetes Lab]() → Pod & Service deployment for cloud-native environments
+- 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/-Python-Automation-Deep-Dive) → SOC automation scripts for log monitoring & alerting  
+- 📦 [Docker Lab](https://github.com/Waqar-cyberSecurity/Containerization-Docker-Lab) → Hands-on Dockerfile showcasing container fundamentals  
+- ☸️ [Kubernetes Lab](https://github.com/Waqar-cyberSecurity/Kubernetes-and-Cloud-Native-Associate-Lab-KCNA-) → Pod & Service deployment for cloud-native environments
 
 💡 More labs and security projects coming soon...  
 
