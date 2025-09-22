@@ -1,4 +1,5 @@
 
+
 <img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
 
 <h1 align="center">
@@ -88,6 +89,13 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20update-today-brightgreen" alt="Profile update" />
+  <img src="https://komarev.com/ghpvc/?username=Waqar-cyberSecurity&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Waqar-cyberSecurity?label=Followers&style=social" alt="Followers" />
+</p>
+
+ 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-hussain-c) 
  
