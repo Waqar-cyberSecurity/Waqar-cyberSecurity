@@ -1,3 +1,7 @@
+![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)  ![Commit Activity](https://img.shields.io/badge/commit%20activity-17/month-blue) ![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)  ![Profile update](https://img.shields.io/badge/Profile%20update-today-brightgreen)
+
+
+
 <img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
 
 <h1 align="center">
@@ -31,7 +35,7 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
-## 🏅 Certifications  
+## 🏅 Certifications (Highlights)
 
 - 📜 [SQL Injection](https://www.udemy.com/certificate/UC-0856d143-8609-433a-b699-026b448e3eca/)  
 - 🔐 [CISSP Security Assessment & Testing](https://www.linkedin.com/in/waqar-hussain-c/overlay/1743078903199/single-media-viewer/?profileId=ACoAAFjiFo0BxoXETYoDBg8RIbY-uEiLJGB5Il0)  
