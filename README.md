@@ -1,6 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)  ![Commit Activity](https://img.shields.io/badge/commit%20activity-17/month-blue) ![Followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social)  ![Profile update](https://img.shields.io/badge/Profile%20update-today-brightgreen)
-
-
 
 <img src="https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png" alt="logo" width="800"/>
 
