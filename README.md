@@ -41,7 +41,8 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
-# 💻 Tools & Technologies
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer" width="40" height="40" />  Tools & Technologies
+
 
 
 **Programming & Scripting:**  
@@ -115,7 +116,8 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 ---
 
-## 📊 GitHub Analytics  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Analytics
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&hide_border=true)
