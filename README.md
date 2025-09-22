@@ -96,14 +96,17 @@ Passionate about continuous learning, I believe in *learning by doing* and shari
 
 
 ---
+
+## ⭐ GitHub Commits & Contributions 🐍
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+---
 
-# 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&hide_border=true)
